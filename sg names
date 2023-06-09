@@ -1,0 +1,61 @@
+******************************************************************************
+*Tree    :Events    : Events                                                 *
+*Entries :    22838 : Total =         1289726 bytes  File  Size =    1178449 *
+*        :          : Tree compression factor =   1.09                       *
+******************************************************************************
+*Br    0 :Muon_pt_1 : Muon_pt_1/F                                            *
+*Entries :    22838 : Total  Size=      92087 bytes  File Size  =      82408 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br    1 :Muon_pt_2 : Muon_pt_2/F                                            *
+*Entries :    22838 : Total  Size=      92087 bytes  File Size  =      82494 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br    2 :Electron_pt_1 : Electron_pt_1/F                                    *
+*Entries :    22838 : Total  Size=      92115 bytes  File Size  =      82285 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br    3 :Electron_pt_2 : Electron_pt_2/F                                    *
+*Entries :    22838 : Total  Size=      92115 bytes  File Size  =      82442 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br    4 :dPhim1e1  : dPhim1e1/F                                             *
+*Entries :    22838 : Total  Size=      92080 bytes  File Size  =      84776 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br    5 :dPhim1e2  : dPhim1e2/F                                             *
+*Entries :    22838 : Total  Size=      92080 bytes  File Size  =      84800 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br    6 :dPhim2e1  : dPhim2e1/F                                             *
+*Entries :    22838 : Total  Size=      92080 bytes  File Size  =      84835 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br    7 :dPhim2e2  : dPhim2e2/F                                             *
+*Entries :    22838 : Total  Size=      92080 bytes  File Size  =      84836 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br    8 :Electron_eta_1 : Electron_eta_1/F                                  *
+*Entries :    22838 : Total  Size=      92122 bytes  File Size  =      85010 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br    9 :Electron_eta_2 : Electron_eta_2/F                                  *
+*Entries :    22838 : Total  Size=      92122 bytes  File Size  =      85070 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   10 :Muon_eta_1 : Muon_eta_1/F                                          *
+*Entries :    22838 : Total  Size=      92094 bytes  File Size  =      84530 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   11 :Muon_eta_2 : Muon_eta_2/F                                          *
+*Entries :    22838 : Total  Size=      92094 bytes  File Size  =      85088 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   12 :dPhim1m2  : dPhim1m2/F                                             *
+*Entries :    22838 : Total  Size=      92080 bytes  File Size  =      84398 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.09     *
+*............................................................................*
+*Br   13 :dPhie1e2  : dPhie1e2/F                                             *
+*Entries :    22838 : Total  Size=      92080 bytes  File Size  =      84067 *
+*Baskets :        3 : Basket Size=      32000 bytes  Compression=   1.09     *
+*............................................................................*
