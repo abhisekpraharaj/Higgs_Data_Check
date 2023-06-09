@@ -8,3 +8,4 @@ The br stands for the code to draw signal branches and number in br like br_0, i
 The r0.c stands for the code to draw the comparision of background and signal histogram for specific branches represented by the number shown with it like r0.c is the code for the first branch. 
 
 The bgread.c and sgread.c are codes to read the background and signal data, whereas the inspectionsg and inspectionbg are the codes to inspect the background and signal have any data inside it or not.
+The bgnames and shnames are the channel or branches names I got from the datset read.
